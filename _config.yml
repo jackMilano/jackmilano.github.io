@@ -4,7 +4,7 @@
 baseurl: #/jackmilano.github.io #/harmony
 
 # Site live URL
-url: https://jackmilano.github.io
+url: http://jackmilano.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
@@ -24,7 +24,7 @@ harmony:
   author: # Author details
     name: Giacomo Milano
     email: giacomomilano89@gmail.com
-    url: https://jackmilano.github.io
+    url: http://jackmilano.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-61355481-1
