@@ -4,7 +4,7 @@
 baseurl: #/jackmilano.github.io #/harmony
 
 # Site live URL
-url: #https://jackmilano.github.io
+url: https://jackmilano.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
