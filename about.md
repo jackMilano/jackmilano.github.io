@@ -4,24 +4,20 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Giacomo Milano. I'm a computer engineer with experience in game programming, game design, computer vision and robotics.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I'm also interested in Artificial Intelligence and Computational Intelligence.
 
-### Contact me
+## How to contact me
+- eMail: giacomomilano89 __ gmail dot com
+- [Linkedin][linkedin]
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+## Where to find me
+- [Github][github]
+- [Google +][google+]
+- [Twitter][twitter]
 
-
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[linkedin]: https://it.linkedin.com/in/giacomomilano
+[github]: https://github.com/jackMilano
+[google+]: https://plus.google.com/+GiacomoMilano89
+[twitter]: https://twitter.com/Giacomo_Milano

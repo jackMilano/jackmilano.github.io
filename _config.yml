@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: #/harmony
+baseurl: "" #/harmony
 
 # Site live URL
-url: #http://gayan.me
+url: https://jackmilano.github.io
 
 # Localhost
 url: http://127.0.0.1:4000
@@ -24,7 +24,7 @@ harmony:
   author: # Author details
     name: Giacomo Milano
     email: giacomomilano89@gmail.com
-    #url: https://jackmilano.github.io
+    url: https://jackmilano.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-61355481-1
@@ -35,7 +35,7 @@ harmony:
     twitter: Giacomo_Milano
     facebook:
     gplus: +GiacomoMilano89
-    linkedin:
+    linkedin: giacomomilano
     pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: true
@@ -90,3 +90,7 @@ defaults:
     values:
       layout: "page"
       category: "about"
+
+safe: true    # disable custom plugins, and ignore symbolic links
+future: false # future posts won't be published
+# lsi: true   # produce an index for related posts [gives build error]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Post with an images"
 date:   2014-08-30 23:56:45
 categories:
