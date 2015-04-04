@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: "" #/harmony
+baseurl: /jackmilano.github.io #/harmony
 
 # Site live URL
 url: https://jackmilano.github.io
