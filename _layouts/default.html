@@ -7,7 +7,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+        {% if site.harmony.social.linkedin %}
+        <link rel="prefetch" href="https://www.linkedin.com/in/giacomomilano">	<link rel="prerender" href="https://www.linkedin.com/in/giacomomilano">
+        {% endif %}
+        
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
 
