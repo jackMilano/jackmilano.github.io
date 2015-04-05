@@ -38,12 +38,15 @@ harmony:
     linkedin: giacomomilano
     pinterest:
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false #true
 
 # Conversion / Build settings
-markdown:    kramdown
-kramdown:
-  input: GFM
+# markdown:    kramdown
+# kramdown:
+#   input: GFM
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
 highlighter: pygments
 
@@ -94,3 +97,4 @@ defaults:
 safe: true    # disable custom plugins, and ignore symbolic links
 future: false # future posts won't be published
 # lsi: true   # produce an index for related posts [gives build error]
+
