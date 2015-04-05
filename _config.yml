@@ -31,14 +31,14 @@ harmony:
 
   # Profile links, leave blank to ignore
   social:
-    github: jackMilano
-    twitter: Giacomo_Milano
     facebook:
+    github: jackMilano
     gplus: +GiacomoMilano89
     linkedin: giacomomilano
     pinterest:
+    twitter: Giacomo_Milano
   # Toggle disclaimer in footer
-  show_disclaimer: false #true
+  show_disclaimer: false
 
 # Conversion / Build settings
 # markdown:    kramdown
@@ -56,11 +56,11 @@ permalink:        pretty
 exclude:
   - CNAME
   - Gemfile
+  - Gemfile.lock
+  - .gitignore
   - Rakefile
   - README.md
-  - .gitignore
   - .sass-cache
-  - Gemfile.lock
 
 # Sass conversion configs
 sass:
@@ -97,4 +97,3 @@ defaults:
 safe: true    # disable custom plugins, and ignore symbolic links
 future: false # future posts won't be published
 # lsi: true   # produce an index for related posts [gives build error]
-
