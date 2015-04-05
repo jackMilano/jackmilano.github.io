@@ -8,9 +8,15 @@ Hi, I am Giacomo Milano. I'm a computer engineer with experience in game program
 
 I'm also interested in Artificial Intelligence and Computational Intelligence.
 
+<!-- ### My projects
+-
+
+### My CV
+- -->
+
 ## How to contact me
-- eMail: giacomomilano89 __ gmail dot com
-- [Linkedin][linkedin]
+- send me an eMail: giacomomilano89 __ gmail dot com
+- send me a message on [Linkedin][linkedin]
 
 ## Where to find me
 - [Github][github]
