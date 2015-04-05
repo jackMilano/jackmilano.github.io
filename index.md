@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: #/about/
 ---
 
 Hi, I am Giacomo Milano. I'm a computer engineer with experience in game programming, game design, computer vision and robotics.
