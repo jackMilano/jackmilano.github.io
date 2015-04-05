@@ -11,8 +11,9 @@
         <meta name="author" content="Giacomo Milano"/>
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
         {% if site.harmony.social.linkedin %}
-        <link rel="prefetch" href="https://www.linkedin.com/in/giacomomilano">
-        <link rel="prerender" href="https://www.linkedin.com/in/giacomomilano"> <!-- Chrome ed IE -->
+        <!-- prefetch loads, prerender loads and render -->
+        <!-- prerender works only with Chrome ed IE -->
+        <link rel="prefetch prerender" href="https://www.linkedin.com/in/giacomomilano">
         {% endif %}
         
         <!-- Harmony styles -->
