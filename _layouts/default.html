@@ -3,12 +3,16 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
+        <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title> -->
+        <title>{{ site.harmony.name }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
+        <meta name="keywords" content="game development, game programming, game design, computer vision, robotics, artificial intelligence, computational intelligence"/>
+        <meta name="author" content="Giacomo Milano"/>
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
         {% if site.harmony.social.linkedin %}
-        <link rel="prefetch" href="https://www.linkedin.com/in/giacomomilano">	<link rel="prerender" href="https://www.linkedin.com/in/giacomomilano">
+        <link rel="prefetch" href="https://www.linkedin.com/in/giacomomilano">
+        <link rel="prerender" href="https://www.linkedin.com/in/giacomomilano"> <!-- Chrome ed IE -->
         {% endif %}
         
         <!-- Harmony styles -->
