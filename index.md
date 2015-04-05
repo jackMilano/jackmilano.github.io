@@ -19,11 +19,12 @@ I'm also interested in Artificial Intelligence and Computational Intelligence.
 - send me a message on [Linkedin][linkedin]
 
 ## Where to find me
+- [Linkedin][linkedin]
 - [Github][github]
 - [Google +][google+]
 - [Twitter][twitter]
 
-[linkedin]: https://it.linkedin.com/in/giacomomilano
+[linkedin]: https://www.linkedin.com/in/giacomomilano
 [github]: https://github.com/jackMilano
 [google+]: https://plus.google.com/+GiacomoMilano89
 [twitter]: https://twitter.com/Giacomo_Milano
