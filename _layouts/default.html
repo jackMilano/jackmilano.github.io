@@ -3,19 +3,25 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <!-- <title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title> -->
-        <title>{{ site.harmony.name }}</title>
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
         <meta name="keywords" content="game development, game programming, game design, computer vision, robotics, artificial intelligence, computational intelligence"/>
         <meta name="author" content="Giacomo Milano"/>
+        {% if site.fb_og %}
+        <meta property="og:title" content="{{ site.harmony.name }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{ site.url }}" />
+        <!-- <meta property="og:image" content="" /> -->
+        <meta property="og:description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}" />
+        {% endif %}
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
         {% if site.harmony.social.linkedin %}
         <!-- prefetch loads, prerender loads and render -->
         <!-- prerender works only with Chrome ed IE -->
         <link rel="prefetch" href="https://www.linkedin.com/in/giacomomilano">
         {% endif %}
-        
+
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
 

@@ -65,7 +65,7 @@ exclude:
 # Sass conversion configs
 sass:
     sass_dir: assets/css/_sass
-    style: :compressed
+    style: :expanded #:compressed
 
 # Time Zone
 timezone: Europe/Rome
@@ -96,4 +96,5 @@ defaults:
 
 safe: true    # disable custom plugins, and ignore symbolic links
 future: false # future posts won't be published
-# lsi: true   # produce an index for related posts [gives build error]
+
+fb_og: true   # enable Facebook OpenGraph (http://ogp.me)
