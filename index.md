@@ -14,6 +14,8 @@ I'm also interested in Artificial Intelligence and Computational Intelligence.
 ### My CV
 - -->
 
+A Gonella piace il cazzo.
+
 ## How to contact me
 - send me an eMail: giacomomilano89 __ gmail dot com
 - send me a message on [Linkedin][linkedin]
