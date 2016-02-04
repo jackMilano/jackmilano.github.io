@@ -15,7 +15,7 @@ I'm also interested in Artificial Intelligence and Computational Intelligence.
 - -->
 
 ## How to contact me
-- send me an eMail: giacomomilano89 __ gmail dot com
+- send me an eMail: giacomo.milano5 __ gmail dot com
 - send me a message on [Linkedin][linkedin]
 
 ## Where to find me
