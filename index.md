@@ -10,18 +10,11 @@ My main areas of interest are game development, robotics, artificial intelligenc
 
 I've worked for [Brain in the Box][bitbgames], an italian game development indipendent house; I was focused on multiplayer, but I've contributed on many other things.
 
-<!-- Right now I'm working for [e-Mentor][ementor], an italian game development indipendent house; I'm focused on multiplayer but I'm contributing on many other things. -->
+Right now I'm working for [e-Mentor][ementor], an italian company specialised in e-learning, edutainment and serious gaming; I'm using Unity3D and web technologies (from Angular to jQuery) in my daily work routine to build hybrid apps and games.
 
-<!--
-### My projects
-- -->
-
-<!--
-### My CV
-- -->
 
 ## How to contact me
-- send me an eMail: giacomo.milano5 __ gmail dot com
+- send me an eMail: giacomo.milano5 ____ gmail.com
 - send me a message on [Linkedin][linkedin]
 
 ## Where to find me
