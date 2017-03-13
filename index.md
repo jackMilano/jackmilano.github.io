@@ -6,7 +6,7 @@ permalink: #/about/
 
 Hi, I am Giacomo Milano. I'm a very curious person, appassionate about different things.
 
-My main areas of interest are game development, robotics, artificial intelligence and the social consequences of technology on humanity.
+My main areas of interest are game development, robotics, artificial intelligence and the social consequences of technology.
 
 I've worked for [Brain in the Box][bitbgames], an italian game development indipendent house; I was focused on multiplayer, but I've contributed on many other things.
 
