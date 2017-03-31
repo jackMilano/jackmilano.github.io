@@ -4,7 +4,7 @@ title: About me
 permalink: #/about/
 ---
 
-Hi, I am Giacomo Milano. I'm a very curious person, appassionate about different things.
+Hi, I am Giacomo Milano. I'm a very curious person, passionate about different things.
 
 My main areas of interest are game development, robotics, artificial intelligence and the social consequences of technology.
 
