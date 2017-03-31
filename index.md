@@ -8,7 +8,7 @@ Hi, I am Giacomo Milano. I'm a very curious person, passionate about different t
 
 My main areas of interest are game development, robotics, artificial intelligence and the social consequences of technology.
 
-I've worked for [Brain in the Box][bitbgames], an italian game development indipendent house; I was focused on multiplayer, but I've contributed on many other things.
+I've worked for [Brain in the Box][bitbgames], an italian game development indipendent house, on Voodoo, a survival game for PC released on Steam ([steam link][voodoo]), dealing with various aspects of the game development process, but with a focus on multiplayer.
 
 Right now I'm working for [e-Mentor][ementor], an italian company specialised in e-learning, edutainment and serious gaming; I'm using Unity3D and web technologies (from Angular to jQuery) in my daily work routine to build hybrid apps and games.
 
@@ -29,3 +29,4 @@ Right now I'm working for [e-Mentor][ementor], an italian company specialised in
 [twitter]: https://twitter.com/Giacomo_Milano
 [bitbgames]: http://bitbgames.com/
 [ementor]: http://www.e-mentor.it/
+[voodoo]: http://store.steampowered.com/app/467570/
