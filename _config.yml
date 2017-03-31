@@ -23,7 +23,7 @@ harmony:
   basetheme: theme-base-01 # pre defined themes are darken, blue-water, redish.
   author: # Author details
     name: Giacomo Milano
-    email: giacomomilano89@gmail.com
+    email: giacomo.milano5@gmail.com
     url: http://jackmilano.github.io
 
   # Google Analytics key, leave blank to ignore
@@ -33,7 +33,7 @@ harmony:
   social:
     facebook:
     github: jackMilano
-    gplus: +GiacomoMilano89
+    gplus: 
     linkedin: giacomomilano
     pinterest:
     twitter: Giacomo_Milano
